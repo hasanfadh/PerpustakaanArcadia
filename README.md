@@ -7,7 +7,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-38B2AC?style=flat-square&logo=tailwind-css)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-## 📖 Deskripsi
+## Deskripsi
 
 **Perpustakaan Arcadia** adalah sistem informasi perpustakaan modern yang memungkinkan peminjam untuk memesan buku secara online dan mengambilnya melalui jalur drive-thru. Sistem ini mempermudah proses peminjaman dan pengembalian buku dengan mengurangi waktu tunggu dan meningkatkan efisiensi layanan perpustakaan.
 
@@ -22,7 +22,7 @@
 - **Riwayat Peminjaman** - Lihat status dan history peminjaman (DIPROSES, DISETUJUI, DITOLAK, SELESAI)
 - **Drive-Thru Ready** - Sistem dirancang untuk pengambilan dan pengembalian via drive-thru
 
-#### 👨‍💼 Untuk Admin:
+#### Untuk Admin:
 - **Login Admin** - Akses panel admin dengan autentikasi terpisah
 - **Dashboard Statistik** - Monitoring real-time peminjaman dan buku
 - **Approve/Reject Peminjaman** - Review dan setujui/tolak pemesanan peminjaman
@@ -44,7 +44,7 @@
 
 ---
 
-## 📋 Prasyarat
+## Prasyarat
 
 Pastikan sudah terinstall:
 - PHP >= 8.3
@@ -54,7 +54,7 @@ Pastikan sudah terinstall:
 
 ---
 
-## ⚙️ Instalasi
+## Instalasi
 
 ### 1. Clone Repository
 ```bash
@@ -114,7 +114,7 @@ Registrasi akun baru di: `http://127.0.0.1:8000/register`
 
 ---
 
-## 📁 Struktur Database
+## Struktur Database
 
 ### Tabel Utama:
 
@@ -163,7 +163,7 @@ Registrasi akun baru di: `http://127.0.0.1:8000/register`
 
 ---
 
-## 🔄 Flow Sistem
+## Flow Sistem
 
 ### Alur Peminjaman:
 
@@ -190,25 +190,13 @@ Registrasi akun baru di: `http://127.0.0.1:8000/register`
 
 ---
 
-## 🎨 Tema & Design
+## Tema & Design
 
 - **Peminjam**: Blue theme (#3B82F6)
 - **Admin**: Gold/Cream theme (#D7C097)
 - **Responsive Design**: Mobile-friendly
 - **Modern UI**: Clean, minimalist dengan Tailwind CSS
 
----
-
-## 📸 Screenshots
-
-### Dashboard Peminjam
-![Dashboard Peminjam](screenshots/peminjam-dashboard.png)
-
-### Admin Panel
-![Admin Dashboard](screenshots/admin-dashboard.png)
-
-### Manajemen Peminjaman
-![Manajemen Peminjaman](screenshots/admin-peminjaman.png)
 
 ---
 
@@ -223,7 +211,7 @@ Registrasi akun baru di: `http://127.0.0.1:8000/register`
 
 ---
 
-## 📝 TODO / Future Enhancements
+## TODO / Future Enhancements
 
 - [ ] Email notification untuk peminjam
 - [ ] QR Code untuk kode pinjam
